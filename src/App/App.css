@@ -1,0 +1,62 @@
+body{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans',
+     'Droid Sans',
+    sans-serif;
+    background-image: url('./Qs.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
+color:#ffffff;
+
+}
+#app{
+  background-color:#ff4c68;
+  height:100%;
+  color:#ffffff;
+
+}
+.carousel{position: relative;
+  background-color:  #ff4c68;
+  height:500px;
+
+}
+.navbar{
+  height:70px;
+  color:#ffffff;
+  padding:0;
+}
+
+.responsive-navbar-nav{
+  padding:0;
+}
+#events{position: relative;
+
+  color:#ffffff;
+  text-align: center;
+  background-color:  #ff4c68;
+  height:500px;
+}
+#facilities{position: relative;
+  color:#ffffff;
+  text-align: center;
+  background-color:  #ff4c68;
+  height:500px;
+
+}
+#footer{position: relative;
+    background-color:  #ff4c68;
+  height:100px;
+  text-align: center;
+  color:#ffffff;
+}
+.fa{
+  padding: 10px;
+  color:#ffffff;
+}
+.column{
+  width:100%;
+}
+p{
+  margin-bottom: 0;
+}

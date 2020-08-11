@@ -1,0 +1,26 @@
+body{background-color:#ff4c68;
+  color:#000000;
+  background-image: url('./Qs.jpg');
+  background-repeat: no-repeat;
+background-size: auto;
+background-size: cover;
+}
+
+
+
+
+.pid{
+  font-weight: bold;
+}
+.form-group{
+  margin-bottom: 0rem;
+}
+.form-control-file{
+  padding:0px;
+}
+.col-form-label{
+  padding-right: 0px;
+}
+.form-control-sm{
+  padding: 0px;
+}
