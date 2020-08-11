@@ -1,0 +1,11 @@
+body{
+  background-image: url('./Qs.jpg');
+  background-repeat: no-repeat;
+text-align: left;
+  background-size: cover;
+
+}
+#pid{
+  text-align: left;
+  margin-left: 0px;
+}
